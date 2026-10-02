@@ -149,10 +149,11 @@ I build and maintain open-source contributions. This is a dynamic trophy case an
 <!-- END TROPHIES & VISITS -->
 
 <!-- The Contribution Snake is extremely reliable and visually unique -->
+<!-- The Contribution Snake -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crazxy851/crazxy851/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crazxy851/crazxy851/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/crazxy851/crazxy851/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crazxy851/crazxy851/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crazxy851/crazxy851/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/crazxy851/crazxy851/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
