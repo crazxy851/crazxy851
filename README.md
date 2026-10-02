@@ -1,8 +1,9 @@
 <div align="center">
 
 <!-- Animated Typing Text -->
+<!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Ojaswa+👋;Building+Intelligent+AI+Systems;Deep+Learning+%26+Computer+Vision;Full-Stack+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=32&amp;pause=1000&amp;color=00FF99&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi+there,+I%27m+Ojaswa+👋;Building+Intelligent+AI+Systems;Deep+Learning+%26+Computer+Vision;Full-Stack+Web+Developer" alt="Typing SVG" />
 </a>
 
 <!-- Animated Banner/GIF -->
