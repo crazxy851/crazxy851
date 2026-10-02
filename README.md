@@ -12,10 +12,10 @@
   </p>
 
   <p align="center">
-    <a href="mailto:rushangchandekar05@gmail.com">
+    <a href="mailto:ojaswawadichar@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
     </a>
-    <a href="https://linkedin.com/in/www.linkedin.com/in/rushang-chandekar">
+    <a href="https://www.linkedin.com/in/ojaswa-wadichar-135698305">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
     </a>
   </p>
@@ -48,8 +48,8 @@ I am actively specializing my engineering skills through key projects and resear
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crazxy851&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazxy851&layout=donut&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" width="48%" />
+  <img src="https://crazxy851.github.io/Solar-System-Explorer/" width="48%" />
+  <img src="https://real-time-chatting-1-8bql.onrender.com" width="48%" />
 </p>
 <!-- END CURRENT ACTIVITY -->
 
