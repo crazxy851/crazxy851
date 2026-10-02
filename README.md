@@ -1,19 +1,36 @@
-# 💫 About Me:
-Hi there 👋<br><br>Nice to meet you, I'm Ojaswa!<br><br>🚀 I'm a CSE student passionate about Deep Learning, Computer Vision, and Full-Stack Development<br>🤖 Currently focused on building AI applications and deploying local models (Ollama, Llama 3)<br>🛠️ Ask me about Python, PyTorch, React, Node.js, or YOLOv8<br>📍 Based in Nagpur, India<br>⚡ Fun fact: I recently built an AI-adaptive cognitive gaming platform and an EEG signal analyzer!
+<!-- Animated Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ojaswa's%20Dev%20Space&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20%7C%20Full-Stack&descAlignY=55&descSize=20" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+### 👋 About Me
+I'm a CSE student focused on the intersection of deep learning and robust web applications. From engineering EEG signal analyzers to deploying full-stack travel dashboards, I build tools that turn complex data into actionable insights.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=crazxy851&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=crazxy851&theme=aura&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=crazxy851&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=crazxy851&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/YOUR_LINKEDIN_URL) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:YOUR_EMAIL@gmail.com)
 
 ---
-[![](https://komarev.com/ghpvc/?username=crazxy851&icon=8&color=0)](https://visitcount.itsvg.in)
+
+### 🏆 Animated Trophies
+<!-- These trophies animate and update dynamically based on your GitHub activity -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=crazxy851&theme=dracula&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🛠️ Tech Arsenal
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</p>
+
+### 📈 Language Breakdown
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazxy851&layout=donut&theme=dracula&hide_border=true" width="400" />
+
+</div>
