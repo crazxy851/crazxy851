@@ -48,8 +48,8 @@ I am actively specializing my engineering skills through key projects and resear
 </div>
 
 <p align="center">
-  <img src="https://crazxy851.github.io/Solar-System-Explorer/" width="48%" />
-  <img src="https://real-time-chatting-1-8bql.onrender.com" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crazxy851&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazxy851&layout=donut&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" width="48%" />
 </p>
 <!-- END CURRENT ACTIVITY -->
 
@@ -78,7 +78,7 @@ I build reliable full-stack applications and high-performance AI models using th
 
   <br />
 
-  ### 🛠️ Infrastructure & Data Tools
+  ### 🛠️️ Infrastructure & Data Tools
   <img src="https://skillicons.dev/icons?i=git,docker,excel,powerbi,tableau&theme=dark" height="70" />
 
 </div>
@@ -91,7 +91,7 @@ I build reliable full-stack applications and high-performance AI models using th
 
 ## 🛠️ Project Spotlight
 
-I take complex research and engineer practical solutions. Explore my top contributions!
+I take complex research and engineer practical solutions. Explore my live applications!
 
 </div>
 
@@ -101,21 +101,27 @@ I take complex research and engineer practical solutions. Explore my top contrib
   <table align="center" width="100%" border="0">
     <tr>
       <!-- Project 1 -->
-      <td width="30%" align="center">
-        <a href="https://github.com/crazxy851/AI-Smart-Dental-Disease-Detection-Model">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=crazxy851&repo=AI-Smart-Dental-Disease-Detection-Model&theme=github_dark&hide_border=true" width="100%" />
+      <td width="33%" align="center">
+        <h3>🪐 Solar System Explorer</h3>
+        <br />
+        <a href="https://crazxy851.github.io/Solar-System-Explorer/">
+          <img src="https://img.shields.io/badge/View%20Live%20App-000000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
       <!-- Project 2 -->
-      <td width="30%" align="center">
-        <a href="https://github.com/crazxy851/cognigame">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=crazxy851&repo=cognigame&theme=github_dark&hide_border=true" width="100%" />
+      <td width="33%" align="center">
+        <h3>💬 Real-Time Chat App</h3>
+        <br />
+        <a href="https://real-time-chatting-1-8bql.onrender.com">
+          <img src="https://img.shields.io/badge/View%20Live%20App-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
         </a>
       </td>
       <!-- Project 3 -->
-      <td width="30%" align="center">
-        <a href="https://github.com/crazxy851/AI-Medical-App-Ollama">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=crazxy851&repo=AI-Medical-App-Ollama&theme=github_dark&hide_border=true" width="100%" />
+      <td width="33%" align="center">
+        <h3>🧠 EEG Schizophrenia Detection</h3>
+        <br />
+        <a href="https://eeg-based-schizophrenia-detection-aohnof26mjabajerjh5ueq.streamlit.app/">
+          <img src="https://img.shields.io/badge/View%20Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
         </a>
       </td>
     </tr>
